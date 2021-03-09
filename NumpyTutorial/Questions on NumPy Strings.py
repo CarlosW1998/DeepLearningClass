@@ -11,7 +11,7 @@ np.char.multiply(np.array(['a', 'b', 'c',
 
 # How to split the element of a given NumPy array with spaces?
 # split Returns  Output Array containing of list objects.
-np.char.split(np.array(['PHP C# Python C Java C++'], dtype=np.str) ) 1
+np.char.split(np.array(['PHP C# Python C Java C++'], dtype=np.str) )
 
 # How to insert a space between characters of all the elements of a given NumPy array?
 # char.join  Return a string which is the concatenation of the strings in the sequence seq.
